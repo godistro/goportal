@@ -4,6 +4,10 @@
 
 Goportal is a complete Linux Build bootable on USB Stick with LAMP Servers / phpMyAdmin / dnsmasq / Joomla / Humhub.
 
+USB dd image will be uploaded soon.
+
+Live DVD ISO image (built with Systemback 1.9.4) is in the works too.
+
 USB Bootable Image
 Live USB Installer (Created by SystemBack 1.9.4)
 
