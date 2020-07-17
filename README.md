@@ -4,6 +4,8 @@
 
 Goportal is a complete Linux Build bootable on USB Stick with LAMP Servers / phpMyAdmin / dnsmasq / Joomla / Humhub.
 
+Versions being develop are GoPortal Sparkyliunx 5.1x (Debian Buster) and GoPortal Ubuntu 20.04
+
 USB dd image will be uploaded soon.
 
 Live DVD ISO image (built with Systemback 1.9.4) is in the works too.
